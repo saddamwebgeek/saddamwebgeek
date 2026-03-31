@@ -5,40 +5,25 @@
 </p>
 
 <p align="center">
-  I build fast, clean, and high-converting websites for modern businesses.
+  I build fast, clean, and high-converting websites.
 </p>
 
 ---
 
 ## ⚡ What I Do
 
-- Build responsive websites using **HTML, CSS, JavaScript**
-- Create high-converting **WordPress (Elementor)** websites
-- Optimize websites for **speed & performance**
-- Turn designs into **pixel-perfect live websites**
+- Responsive websites using HTML, CSS, JavaScript  
+- WordPress websites using Elementor  
+- Performance and speed optimization  
+- Conversion-focused landing pages  
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Current Focus
 
-### 🏡 Room Rental Landing Page
-High-converting affiliate landing page built for performance & conversions  
-→ Fast load time, clean UI, mobile-first design  
-
-### 💼 Portfolio Website
-Personal brand website focused on minimal design and speed  
-
-### ⚡ Speed Optimized Website
-Optimized to achieve high PageSpeed score and smooth UX  
-
----
-
-## 🧠 Approach
-
-- Minimal design
-- Performance-first development
-- Conversion-focused layout
-- Clean and scalable code
+- Building high-converting landing pages  
+- Creating fast and optimized websites  
+- Developing real-world business website demos  
 
 ---
 
@@ -46,7 +31,6 @@ Optimized to achieve high PageSpeed score and smooth UX
 
 HTML • CSS • JavaScript  
 WordPress • Elementor  
-Responsive Design • PageSpeed Optimization  
 
 ---
 
