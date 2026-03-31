@@ -1,46 +1,62 @@
-<h1 align="center">Hi 👋, I'm Saddam Hossain</h1>
-<h3 align="center">Frontend Web Developer & WordPress (Elementor) Expert</h3>
+<h1 align="center">Saddam Hossain</h1>
+
+<p align="center">
+  <strong>Frontend Developer • WordPress (Elementor) Expert</strong>
+</p>
+
+<p align="center">
+  I build fast, clean, and high-converting websites for modern businesses.
+</p>
 
 ---
 
-## 🚀 About Me
-- 💻 I build modern, responsive websites using **HTML, CSS, JavaScript**
-- ⚡ I create high-converting WordPress websites using **Elementor**
-- 🎯 Focused on **performance, clean design & user experience**
-- 🌍 Helping businesses build their online presence
+## ⚡ What I Do
+
+- Build responsive websites using **HTML, CSS, JavaScript**
+- Create high-converting **WordPress (Elementor)** websites
+- Optimize websites for **speed & performance**
+- Turn designs into **pixel-perfect live websites**
 
 ---
 
-## 🛠️ Skills
-- HTML5 / CSS3 / JavaScript
-- Responsive Web Design
-- WordPress (Elementor Pro)
-- Landing Page Design
-- PageSpeed Optimization
+## 🚀 Selected Work
+
+### 🏡 Room Rental Landing Page
+High-converting affiliate landing page built for performance & conversions  
+→ Fast load time, clean UI, mobile-first design  
+
+### 💼 Portfolio Website
+Personal brand website focused on minimal design and speed  
+
+### ⚡ Speed Optimized Website
+Optimized to achieve high PageSpeed score and smooth UX  
 
 ---
 
-## 📈 What I Do
-✔ Pixel-perfect website conversion  
-✔ Fast loading websites (90+ PageSpeed)  
-✔ Mobile-first responsive design  
-✔ SEO-friendly structure  
-✔ Easy-to-manage WordPress sites  
+## 🧠 Approach
+
+- Minimal design
+- Performance-first development
+- Conversion-focused layout
+- Clean and scalable code
 
 ---
 
-## 📂 Featured Projects
-- 🔗 Room Rental Landing Page (Affiliate Project)
-- 🔗 Portfolio Website (saddamlive.com)
-- 🔗 Elementor Business Website
+## 🛠️ Stack
+
+HTML • CSS • JavaScript  
+WordPress • Elementor  
+Responsive Design • PageSpeed Optimization  
 
 ---
 
-## 📫 Contact Me
-- 🌐 Website: https://saddamlive.com
-- 💼 Available for freelance work
+## 📫 Contact
+
+- 🌐 https://saddamlive.com  
+- 💼 Available for freelance work  
 
 ---
 
-## ⚡ Fun Fact
-I turn designs into fast, clean, and high-converting websites 🚀
+## ✨ Philosophy
+
+> “Simple design. Fast performance. Real results.”
